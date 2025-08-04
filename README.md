@@ -1,3 +1,3 @@
 # boccia project
 
-Proyecto
+Proyecto de la universidad
