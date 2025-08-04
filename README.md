@@ -1,3 +1,3 @@
 # boccia project
 
-Proyecto de la universidad
+Proyecto de la Universidad Pedagogica
