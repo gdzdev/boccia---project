@@ -2,5 +2,5 @@
 
 Proyecto de la Universidad Pedagogica de El Salvador
 
-Materia: 
+Materia: Programacion Aplicada
 
