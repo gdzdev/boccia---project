@@ -1,3 +1,4 @@
 # boccia project
 
-Proyecto de la Universidad Pedagogica
+Proyecto de la Universidad Pedagogica de El Salvador
+
