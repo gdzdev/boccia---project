@@ -7,5 +7,3 @@ Materia: Programacion Aplicada
 Java y Spring Framework
 
 version 21
-jdk
-jre
